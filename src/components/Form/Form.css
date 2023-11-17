@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.formInput{
+    margin-top: 40px;
+    border: none;
+    border-bottom: 2px solid #DAD2E3;
+    outline: 0;
+    height: 44px;
+    font-family: 'Rad Hat Display';
+    font-weight: 400;
+    font-size: 20px;
+    color: #A8A0B0;
+}
+
+.quoteBtn{
+    margin-top: 20px;
+    width: 200px;
+    height: 60px;
+    border-radius: 100px;
+    font-family: 'Red Hat Display';
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #8643DC;
+    border: 0;
+
+}

@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact{
+    font-weight: 400;
+    font-family: 'Red Hat Display';
+    font-size: 18px;
+    color: #8643DC;
+}
+
+.formInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.formHeader{
+    font-weight: 500;
+    font-family: 'Roboto';
+    font-size: 36px;
+    color: #21232D;
+    width: 35%;
+    justify-content: flex-start;
+}
+
+.myemail{
+    font-weight: 400;
+    font-size: 24px;
+    color: #8643DC;
+    font-family: 'Roboto';
+    margin-left: auto;
+}

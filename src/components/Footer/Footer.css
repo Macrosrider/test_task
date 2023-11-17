@@ -1,0 +1,16 @@
+.footerHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Red Hat Display";
+    font-weight: 500;
+    font-size: 36px;
+    color: #21232D;
+
+}
+
+.socialNetworks{
+    background-image: "../../assets/Vector.png";
+    width: 50px;
+    height: 50px;
+}
